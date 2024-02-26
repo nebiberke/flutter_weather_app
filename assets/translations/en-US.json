@@ -1,0 +1,18 @@
+{
+    "good_morning": "Good morning!",
+    "good_afternoon": "Good afternoon!",
+    "good_evening": "Good evening!",
+
+    "errors" : {
+        "network_error" :"Network Error",
+        "null_error" : "Null Error",
+        "unknown_error" : "Unknown Error"
+    },
+
+    "weather_detail" : {
+        "sunrise" : "Sunrise",
+        "sunset" : "Sunset",
+        "temp_max" : "Temp Max",
+        "temp_min" : "Temp Min"
+    }
+}

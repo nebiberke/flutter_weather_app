@@ -1,0 +1,18 @@
+{
+    "good_morning": "Günaydın!",
+    "good_afternoon": "İyi günler!",
+    "good_evening": "İyi akşamlar!",
+
+    "errors" : {
+        "network_error" :"Ağ Hatası",
+        "null_error" : "Boş Değer Hatası",
+        "unknown_error" : "Bilinmeyen Hata"
+    },
+
+    "weather_detail" : {
+        "sunrise" : "Gün Doğumu",
+        "sunset" : "Gün Batışı",
+        "temp_max" : "Maksimum",
+        "temp_min" : "Minimum"
+    }
+}
