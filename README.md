@@ -122,7 +122,7 @@ The Weather App is a Flutter application that shows weather information based on
 Download or clone this repo by using the link below:
 
 ```sh
-git clone https://github.com/nebiberke/
+git clone https://github.com/nebiberke/flutter_weather_app.git
 ```
 
 ##### Step 2:
