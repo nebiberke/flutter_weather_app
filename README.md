@@ -1,7 +1,7 @@
 # Flutter Weather App Clean Architecture
 
 <img src="screenshots/weather_app_icon.png" width="123" height="128">
-The Weather App is a Flutter application that shows weather information based on the user's location and the current date/time. This application has been developed for learning new concepts in Flutter and at the same time reinforcing Domain-Driven Design (DDD), Clean Architecture, and testing processes. The application offers support in two languages (English and Turkish) and allows users to switch between dark and light themes according to their preferences.
+The Weather App is a Flutter application that shows weather information based on the user's location and the current date/time. This application has been developed for learning new concepts in Flutter and at the same time reinforcing Test-Driven Development (TDD) and Clean Architecture.The application offers support in two languages (English and Turkish) and allows users to switch between dark and light themes according to their preferences.
 
 ## Features
 
@@ -10,7 +10,6 @@ The Weather App is a Flutter application that shows weather information based on
 - **Two Language Support:** The application automatically adapts to the language settings of the user's device, offering support in two languages, English or Turkish.
 - **Dark and Light Theme Options:** Allows users to easily switch between dark and light themes according to their visual preferences.
 - **Clean Architecture:** The application has been developed using a layered structure and clearly defining the responsibility of each layer.
-- **Domain-Driven Design (DDD):** Business logic and application flow are organized around domain models, resulting in a cleaner and more manageable code structure.
 - **Testing Processes:** The application is supported by comprehensive tests to develop quality and reliable software. With Unit and BLoC tests, every aspect of the application is checked. Unit tests confirm the accuracy of functions, while BLoC tests verify the appropriateness of business logic and state management.
 
 ## Preview
